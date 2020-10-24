@@ -16,3 +16,6 @@ C:\Users\ojkna\Documents\GitHub\dotnet-rpg\obj\Debug\netcoreapp3.0\dotnet-rpg.As
 C:\Users\ojkna\Documents\GitHub\dotnet-rpg\obj\Debug\netcoreapp3.0\dotnet-rpg.RazorTargetAssemblyInfo.cache
 C:\Users\ojkna\Documents\GitHub\dotnet-rpg\obj\Debug\netcoreapp3.0\dotnet-rpg.dll
 C:\Users\ojkna\Documents\GitHub\dotnet-rpg\obj\Debug\netcoreapp3.0\dotnet-rpg.pdb
+C:\Users\ojkna\Documents\GitHub\dotnet-rpg\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\ojkna\Documents\GitHub\dotnet-rpg\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ojkna\Documents\GitHub\dotnet-rpg\obj\Debug\netcoreapp3.0\dotnet-rpg.csproj.CopyComplete

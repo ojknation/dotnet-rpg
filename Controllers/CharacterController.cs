@@ -22,9 +22,7 @@ namespace dotnet_rpg.Controllers
 
         }
 
-        public ClaimsPrincipal User { get; }
-        
-        [AllowAnonymous]
+
         [HttpGet("GetAll")]
         public async Task<IActionResult> Get()
         {

@@ -16,6 +16,7 @@ namespace dotnet_rpg.Controllers
         {
 
             _authRepo = authRepository;
+            
         }
 
 
